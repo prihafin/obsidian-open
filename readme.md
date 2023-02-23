@@ -1,4 +1,4 @@
-# obsidian-open v1.0.0
+# obsidian-open
 
 usage:
   obsidian-open.exe [path]
